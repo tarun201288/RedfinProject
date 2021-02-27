@@ -1,0 +1,11 @@
+com/redfin/model/SocrataFoodTruckData.java
+ com.redfin.model.SocrataFoodTruckData
+com/redfin/client/SocrataClient.java
+ com.redfin.client.SocrataClient
+ com.redfin.client.SocrataClient$1
+com/redfin/FoodTruckFinder.java
+ com.redfin.FoodTruckFinder
+com/redfin/util/DateTimeConverter.java
+ com.redfin.util.DateTimeConverter
+com/redfin/service/FoodTruckFinderService.java
+ com.redfin.service.FoodTruckFinderService
